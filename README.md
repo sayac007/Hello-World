@@ -1,3 +1,3 @@
 # Hello World!
 
-Humans! Obey me! Right now!
+Humans! Do something! Right now!
